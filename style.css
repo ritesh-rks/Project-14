@@ -244,6 +244,8 @@ body {
     .img-dancers {
         width: 100%;
     }
+    .details{
+        padding:1rem;
 }
 
 @media (max-width:390px)
